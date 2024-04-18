@@ -1,10 +1,11 @@
 name = "SaveTheTrees"
-uid = "A50AC79E-FDD8-11EE-BAA3-SaveTheTrees-v1"
-version = 1
+uid = "A50AC79E-FDD8-11EE-BAA3-SaveTheTrees-v3"
+version = 3
 copyright = "MIT"
 description = "Tree groups don't break anymore when a T1 engineer walks into them."
 author = "CheeseBerry"
 url = "https://github.com/ChessBerry/SaveTheTrees"
+icon = "/mods/SaveTheTrees/icon.png"
 selectable = true
 enabled = true
 exclusive = false
